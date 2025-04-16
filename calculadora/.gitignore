@@ -1,0 +1,8 @@
+# Ignorar node_modules en todas as carpetas
+node_modules/
+
+# Outros arquivos/cartafoles a ignorar (opcional)
+.env
+.DS_Store
+dist/
+*.log
